@@ -1,0 +1,6 @@
+install pyhton
+open command prompt or terminal in ur respective system
+use the below code:
+pip install beautifulsoup4 requests selenium openpyxl
+if not working try to update using ur pycharm
+use final.py code
