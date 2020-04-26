@@ -3,7 +3,7 @@
 #you need to install 2 things first using command prompt
 #type "pip install selenium"
 #then download chrome driver from the link provided in read.md
-#then put both code and the chrome driver in same flderthen run this code
+#then put both code and the chrome driver in same folder then run this code
 #finally u can contact me her itself
 
 
