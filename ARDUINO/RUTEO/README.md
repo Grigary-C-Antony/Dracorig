@@ -15,9 +15,11 @@ Using this basic project we can automate any bulb fan or other stuff without hus
 * [Jumper Wires](https://www.amazon.in/Jumper-Wires-Male-female-Pieces/dp/B00ZYFX6A2/ref=sr_1_2?crid=2VVUFH8F04QM8&dchild=1&keywords=jumper+wires&qid=1595614747&sprefix=jumber%2Caps%2C463&sr=8-2)
 
 
-## How to Make
+## How to Make Connections
 
-Connect these as per the figure given below
+
+![2020-07-24 23_58_03-Circuit Design App for Makers- circuito io](https://user-images.githubusercontent.com/62613560/88424745-ba132380-ce0b-11ea-8e99-b5b10f4b1f64.png)
+
 
 ## Coding Part
 
